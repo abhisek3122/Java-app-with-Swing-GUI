@@ -8,4 +8,4 @@ $ javac Customer.java
 $ java Customer
 ```
 #### Output Screenshots
-<img src="Output Screenshots/Empty GUI.png">
+<img src="Output Screenshots/GUI Display.png">

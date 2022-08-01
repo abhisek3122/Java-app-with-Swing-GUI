@@ -20,7 +20,7 @@ public class Customer implements ActionListener {
     public Customer(){
 
         // Added all the required fields for the UI
-        frame = new JFrame("Abhisek R(124003005) - Semester 3 - Java Lab Swing Application");
+        frame = new JFrame("Java Lab Swing Application");
 
         Title = new JLabel("ABC Corporation Customer Data");
         frame.add(Title);
